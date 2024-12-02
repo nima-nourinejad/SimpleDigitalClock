@@ -1,7 +1,5 @@
 # Digital Clock
 
-
-
 ## Overview
 This project features a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds.
 
